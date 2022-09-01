@@ -2,16 +2,12 @@ body {
 	background: black;
 }
 
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
-
 .postcard {
 	background: white;
 	width: 400px;
-	height: 300px;
+	height: 270px;
 	margin: auto;
+	padding: 1rem;
 }
 
 .postcard-header {
@@ -51,7 +47,6 @@ input {
 
 .postcard-footer {
 	text-align: center;
-	margin-bottom: 20px;
 }
 
 button {
